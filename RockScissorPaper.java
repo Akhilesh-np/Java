@@ -13,7 +13,7 @@ public class RockScissorPaper
     static Random r = new Random();
     public static void main(String args[])
     {
-        int a;
+     
         String choices[] = {"scissors","paper","rock"};
         String playerChoice;
         String computerChoice;
